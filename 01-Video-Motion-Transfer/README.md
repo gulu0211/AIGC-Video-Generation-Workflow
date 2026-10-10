@@ -147,3 +147,24 @@ Status: In Progress
 - 后续研究原始场景、光影及镜头信息的保留
 
 **研究状态：** In Progress
+---
+
+## 08 | 原视频与白膜生成效果对比
+
+### Original vs AI-Generated Motion
+
+**实验目的：**
+
+通过原始舞蹈视频与AI生成白膜视频的对比，
+观察生成模型在复杂舞蹈动作、人物站位、
+镜头运动及动作连续性方面的还原能力。
+
+**对比视频：**
+
+
+https://github.com/user-attachments/assets/d4667e90-15e3-4f1d-88e4-c6f99a15bc99
+
+
+
+
+
